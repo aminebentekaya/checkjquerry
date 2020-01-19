@@ -1,0 +1,287 @@
+body {
+    background-image: Linear-gradient(217deg, rgba(255, 0, 0, .8), rgba(255, 0, 0, 0) 70.71%), Linear-gradient(127deg, black, black 70.71%), Linear-gradient(336deg, rgba(0, 0, 255, .8), rgba(0, 0, 255, 0) 70.71%);
+}
+
+img {
+    width: 100%;
+}
+
+#navbar {
+    display: flex;
+}
+
+#logo {
+    width: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.menuItem {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    display: inline;
+    font-size: 21px;
+    margin-left: 200px;
+}
+
+ul {
+    padding: 0px;
+    margin: auto;
+}
+
+li {
+    display: inline-block;
+    width: auto;
+    list-style: outside none none;
+}
+
+.label {
+    color: white;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.heading {
+    font-size: 6em;
+    font-family: 'Bree Serif', serif;
+    color: #fff;
+    position: relative;
+    top: 40%;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+}
+
+.imaget {
+    position: relative;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sizecourses img {
+    width: 250px;
+    height: 250px;
+}
+
+.sizecourses {
+    text-align: center;
+}
+
+#lienhome {
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: #337ab7;
+}
+
+#titlehome {
+    color: white !important;
+}
+
+.course1 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour1.png");
+    background-position: center;
+    background-size: cover;
+}
+.course1:hover {
+    opacity: 0.5;
+}
+
+.course2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour2.png");
+    background-position: center;
+    background-size: cover;
+}
+.course2:hover {
+    opacity: 0.5;
+}
+
+.course3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour3.png");
+    background-position: center;
+    background-size: cover;
+}
+.course3:hover {
+    opacity: 0.5;
+}
+
+.course4 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour4.png");
+    background-position: center;
+    background-size: cover;
+}
+.course4:hover {
+    opacity: 0.5;
+}
+
+.course5 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour5.png");
+    background-position: center;
+    background-size: cover;
+}
+.course5:hover {
+    opacity: 0.5;
+}
+
+.course6 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour6.png");
+    background-position: center;
+    background-size: cover;
+}
+.course6:hover {
+    opacity: 0.5;
+}
+
+.course7 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour7.png");
+    background-position: center;
+    background-size: cover;
+}
+.course7:hover {
+    opacity: 0.5;
+}
+
+.course8 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour8.png");
+    background-position: center;
+    background-size: cover;
+}
+.course8:hover {
+    opacity: 0.5;
+}
+
+.course9 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour9.png");
+    background-position: center;
+    background-size: cover;
+}
+.course9:hover {
+    opacity: 0.5;
+}
+
+
+
+.course2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+}
+
+.course3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+}
+
+.coursehome1 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour1.png");
+    background-position: center;
+    background-size: cover;
+}
+.coursehome1:hover {
+    opacity: 0.5;
+}
+
+.coursehome2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour2.png");
+    background-position: center;
+    background-size: cover;
+}
+.coursehome2:hover {
+    opacity: 0.5;
+}
+
+.coursehome3 {
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    background-image: url("../res/cour3.png");
+    background-position: center;
+    background-size: cover;
+}
+.coursehome3:hover {
+    opacity: 0.5;
+}
+
+.btnCourses1 {
+    margin-top: 120px;
+    display: none;
+}
+.courses1{
+    display: flex;
+    justify-content: center;
+}
